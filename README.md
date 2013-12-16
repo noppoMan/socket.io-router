@@ -1,2 +1,2 @@
-socket.io-mvc
+socket.io-router
 =============
