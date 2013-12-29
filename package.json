@@ -1,0 +1,13 @@
+{
+  "name": "socket.io-router",
+  "version": "0.0.1",
+  "private": false,
+  "main": "./index.js",
+  "dependencies": {
+    "socket.io": "0.9.6",
+    "underscore" : "*"
+  },
+  "devDependencies": {
+    "socket.io-client": "0.9.16"
+  }
+}
